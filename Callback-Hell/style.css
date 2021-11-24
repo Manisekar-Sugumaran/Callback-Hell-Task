@@ -1,0 +1,13 @@
+body{
+  display: flex;
+  justify-content: center;
+  padding: 90px 70px;
+  font-size: 80px;
+  color:rgb(0, 13, 255);
+  background-image: url("flag.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 900px;
+  background-position-x:center;
+  background-position-y: 0px;
+}
